@@ -1,0 +1,83 @@
+/* Estilos generales */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  /* Estilos para los botones */
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Estilos para la tabla */
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  thead th {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  tbody td {
+    padding: 10px;
+  }
+  
+  /* Estilos para las columnas de la tabla */
+  
+  .columna1 {
+    width: 5%;
+  }
+  
+  .columna2 {
+    width: 15%;
+  }
+  
+  .columna3 {
+    width: 15%;
+  }
+  
+  .columna4 {
+    width: 15%;
+  }
+  
+  .columna5 {
+    width: 15%;
+  }
+  
+  .columna6 {
+    width: 10%;
+  }
+  
+  .columna7 {
+    width: 15%;
+  }
+  
+  .columna8 {
+    width: 10%;
+  }
+  
